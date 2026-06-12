@@ -3,13 +3,13 @@ name: Generate Datas
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: 
   push:
     branches:
     - main
 
 permissions:
-  contents: write
+  contents: write 
 
 jobs:
   build:
@@ -22,8 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+            dist/github-contribution-grid-snake-ocean.svg?palette=github-dark&color_snake=%2338B2AC&color_dots=%231e2030%2C%232c314a%2C%233e4668%2C%2381e6d9%2C%23ffffff
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
