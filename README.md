@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Marcos!;Desenvolvedor+Full+Stack+Trainee;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marcos%21;Desenvolvedor+Full+Stack+Trainee;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee**. Meu foco principal é a construção de aplicações Full Stack ponta a ponta, conectando interfaces modernas a arquiteturas de backend resilientes, processamento assíncrono em segundo plano e bancos de dados robustos.
 
@@ -14,7 +14,7 @@ Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee*
 
 ---
 
-### 🛠️ Minha Stack Tecnológica
+### Minha Stack Tecnológica
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -36,34 +36,16 @@ Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee*
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas e Atividade
 
 <div align="center">
-  <a href="https://github.com/Marcos-paulo01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-paulo01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/Marcos-paulo01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-paulo01&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-  </a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-paulo01&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
-
-### 🐍 Desafio da Cobrinha
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Marcos-paulo01/Marcos-paulo01/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" />
 </div>
 
 ---
-
-### 📫 Como me encontrar
-
-<div align="center">
-  <a href="https://linkedin.com/in/marcos-paulo-lacerda-dos-santos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu-email@dominio.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
