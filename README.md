@@ -4,7 +4,7 @@
 
 ---
 
-### Sobre Mim
+###  Sobre Mim
 
 Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee**. Meu foco principal é a construção de aplicações Full Stack ponta a ponta, conectando interfaces modernas a arquiteturas de backend resilientes, processamento assíncrono em segundo plano e bancos de dados robustos.
 
@@ -13,7 +13,7 @@ Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee*
 
 ---
 
-### Minha Stack Tecnológica
+### Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -35,16 +35,29 @@ Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee*
 
 ---
 
-### Estatísticas e Atividade
+### Meu Ambiente de Desenvolvimento
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-paulo01&theme=dracula" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/OS-WSL_2_Ubuntu-2C001E?style=flat-square&logo=ubuntu&logoColor=white" alt="WSL2" />
+  <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Terminal-Zsh_%2B_OhMyZsh-000000?style=flat-square&logo=gnu-bash&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/Database_Client-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
 </div>
 
 ---
 
+###  Estatísticas e Atividade
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Marcos-paulo01/Marcos-paulo01/output/github-contribution-grid-snake-ocean.svg" alt="Jogo da Cobrinha Ocean" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-paulo01&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### Gráfico de Produtividade
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Marcos-paulo01/Marcos-paulo01/repository-isometric-3d/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D" />
 </div>
 
 ---
