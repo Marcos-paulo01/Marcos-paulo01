@@ -45,7 +45,7 @@ Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee*
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Marcos-paulo01/Marcos-paulo01/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" />
+  <img src="https://raw.githubusercontent.com/Marcos-paulo01/Marcos-paulo01/output/github-contribution-grid-snake-ocean.svg" alt="Jogo da Cobrinha Ocean" />
 </div>
 
 ---
