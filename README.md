@@ -57,7 +57,7 @@ Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee*
 ### Gráfico de Produtividade
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Marcos-paulo01/Marcos-paulo01/repository-isometric-3d/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marcos-paulo01&theme=dracula&hide_border=true" alt="Marcos Activity Graph" />
 </div>
 
 ---
