@@ -8,9 +8,8 @@
 
 Sou estudante de **Engenharia de Software** e atuo como **Desenvolvedor Trainee**. Meu foco principal é a construção de aplicações Full Stack ponta a ponta, conectando interfaces modernas a arquiteturas de backend resilientes, processamento assíncrono em segundo plano e bancos de dados robustos.
 
-- 🛠️ Atualmente trabalhando em ecossistemas empresariais que exigem alta performance e consistência de dados.
-- ⚙️ Automatizando fluxos de backend e arquitetando rotinas assíncronas com filas.
-- 🐳 Defensor do uso de containers para manter ambientes de desenvolvimento idênticos ao de produção.
+-  Atualmente trabalhando em ecossistemas empresariais que exigem alta performance e consistência de dados.
+-  Automatizando fluxos de backend e arquitetando rotinas assíncronas com filas.
 
 ---
 
